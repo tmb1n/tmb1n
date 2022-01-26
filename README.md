@@ -4,10 +4,10 @@
 
 ![A passionate Cyber Security Enthusiast and Software Tester.](https://d1mgen.github.io/d1mGen/cover.jpg)
 
-## Assalamulaikum... Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's EMAMUL!
-### A passionate Cyber Security Enthusiast and Software Tester.
+## Assalamulaikum... Hi, It's EMAMUL! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### A passionate Cyber Security Enthusiast and Software Tester.
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="290" alt="d1mGen"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="300" alt="d1mGen-left-single"/>
 
 <br />
 
@@ -17,11 +17,11 @@
 - 🌱 I’m currently learning Cyber Security (web-mobile pentesting) 
 - 📒 I'm in my last year of studies Bachelor of Science in Computer Science and Engineering
 - 📫 How to reach me: FB 
-- ⚡ Fun fact: INVISIBLE 🧭
+- ⚡ Fun fact: INVISIBLE 😅
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -42,14 +42,17 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
+
 <br />
+
+## Connect with me:
 
 <div align="center" style="display: flex; justify-content: space-between;">
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.#.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d1mGen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/d1mGen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6OX-CPkfTCwtMuy7N8CVSg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.#.com)  
   
 <div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d1mgen&label=Profile%20views&color=0e75b6&style=flat" alt="d1mgen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d1mgen&label=Profile%20views&color=0e75b6&style=flat" alt="d1mgen-counter" /> </p>
 
 
