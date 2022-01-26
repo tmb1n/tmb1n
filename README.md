@@ -1,6 +1,6 @@
 ### Hi there 👋, It's EMAMUL!
 #### A passionate Cyber Security Enthusiast and Software Tester.
-![A passionate Cyber Security Enthusiast and Software Tester.](https://d1mgen.github.io/d1mGen/cover.jpg)
+![A passionate Cyber Security Enthusiast and Software Tester.](https://d1mgen.github.io/d1mGen/cover1.jpg)
 
 
 - 🔭 I’m currently working on Software Testing. 
