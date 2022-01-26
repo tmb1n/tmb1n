@@ -4,10 +4,10 @@
 
 ![A passionate Cyber Security Enthusiast and Software Tester.](https://d1mgen.github.io/d1mGen/cover.jpg)
 
-## Assalamulaikum... Hi there 👋, It's EMAMUL!
+## Assalamulaikum... Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's EMAMUL!
 ### A passionate Cyber Security Enthusiast and Software Tester.
 
-<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif" align="left" width="250" alt="d1mGen"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="290" alt="d1mGen"/>
 
 <br />
 
