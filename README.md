@@ -15,6 +15,7 @@
 
 - 🔭 I’m currently working on Software Testing. 
 - 🌱 I’m currently learning Cyber Security (web-mobile pentesting) 
+- 📒 I'm in my last year of studies Bachelor of Science in Computer Science and Engineering
 - 📫 How to reach me: FB 
 - ⚡ Fun fact: INVISIBLE 🧭
 
